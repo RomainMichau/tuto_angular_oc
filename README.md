@@ -1,5 +1,5 @@
 # Projet fait avec le tutoriel OPen classroom:
-https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular/5087065-structurez-avec-les-components
+https://openclassrooms.com/fr/courses/4668271-developpez-des-applications-web-avec-angular
 # MonProjetAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.5.

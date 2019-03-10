@@ -23,7 +23,6 @@ export class AppareilViewComponent implements OnInit,OnDestroy {
   });
 
   ngOnInit() {
-
     this.appareilSubscription = this.appareilService.appareilsSubject.subscribe(
       (appareils: any[]) => {
         this.appareils = appareils;
